@@ -1,0 +1,15 @@
+{
+    "development" : {
+        "PORT" : 3000,
+        "MONGODB_URI" :  "You can put here your cluster url"
+       
+    },
+
+    "production": {
+        "PORT" : 80,
+        "MONGODB_URI" : "mongodb://xxxxx/DB_Name"
+       
+        
+        
+    }
+}
